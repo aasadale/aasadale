@@ -3,6 +3,6 @@
 
 - 🌱 **Offensive Security Learner**
 - 🌱 I'm currently Learning **Penetration Testing, Threat Hunting, Malware Analysis**
-- 🌱 **Top 3% on Tryhackme**
+- ⚡ **Top 3% on Tryhackme**
 
 
